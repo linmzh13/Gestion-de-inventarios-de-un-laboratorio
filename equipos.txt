@@ -1,0 +1,20 @@
+E001;Multimetro;4;Disponible
+E002;Osciloscopio;2;Disponible
+E003;Protoboard;10;Disponible
+E004;Fuente DC;3;Disponible
+E005;Generador de señales;2;Disponible
+E006;Soldador;5;Disponible
+E007;Estacion de soldadura;2;Disponible
+E008;Pinza amperimetrica;2;Disponible
+E009;Medidor LCR;2;Disponible
+E010;Fuente de alimentacion;4;Disponible
+E011;Analizador logico;1;Disponible
+E012;Tacometro digital;1;Disponible
+E013;Cables jumper;20;Disponible
+E014;Juego de resistencias;8;Disponible
+E015;Juego de capacitores;8;Disponible
+E016;Transformador;3;Disponible
+E017;Motor DC;5;Disponible
+E018;Motor paso a paso;3;Disponible
+E019;Arduino Uno;5;Disponible
+E020;ESP32;5;Disponible

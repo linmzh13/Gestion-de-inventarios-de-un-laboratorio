@@ -1,0 +1,5 @@
+6707604;Lineth;1234;lineth@gmail.com;Estudiante;3132674572
+1234;Carlos;5678;carlos@gmail.com;Estudiante;3001234567
+23;Laura;1111;laura@gmail.com;Estudiante;3109876543
+1111;Pedro;2222;pedro@gmail.com;Estudiante;3154567890
+5666;Santiago;5566;santiago@gmail.com;Estudiante;3234434355
