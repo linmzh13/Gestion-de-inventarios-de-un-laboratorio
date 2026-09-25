@@ -72,3 +72,20 @@ Para ejecutar el proyecto se necesita tener Python instalado.
 El programa se inicia ejecutando el archivo:
 main.py
 Los archivos .py y .txt deben estar dentro de la misma carpeta del proyecto.
+
+
+## Diagramas de UML:
+
+### Diagrama de casos de uso:
+
+<img width="1171" height="972" alt="Diagrama de caso de uso" src="https://github.com/user-attachments/assets/9a45645b-8adf-47b6-8a1c-5750a9b263f0" />
+
+### Diagrama de clases: 
+
+<img width="1301" height="1297" alt="Diagrama en blanco" src="https://github.com/user-attachments/assets/b9f4f5ce-aa89-4eba-aed8-0fc2480a8d6d" />
+
+### Diagrama de secuencia:
+
+<img width="1536" height="1024" alt="Secuencia" src="https://github.com/user-attachments/assets/6a9a4c90-3787-4ddc-8f5c-c79e486eaa9a" />
+
+
