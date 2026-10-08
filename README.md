@@ -45,10 +45,9 @@ estudiante.py — Clase Estudiante.
 
 equipo.py — Clase Equipo.
 
-equipos.txt — Información de los equipos.
+base_datos.py — Gestión de inventario mediante SQLite para guardar, actualizar y consultar equipos, estudiantes y encargados.
 
-estudiantes.txt — Información de los estudiantes.
-
+inventario.db — Archivo de base de datos SQLite que almacena la información del inventario y los usuarios del sistema.
 
 ## Formato de los equipos
 
