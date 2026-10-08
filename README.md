@@ -67,10 +67,20 @@ Si hay unidades disponibles, la cantidad se reduce en uno. Cuando la cantidad ll
 
 ## Ejecución
 
-Para ejecutar el proyecto se necesita tener Python instalado.
-El programa se inicia ejecutando el archivo:
-main.py
-Los archivos .py y .txt deben estar dentro de la misma carpeta del proyecto.
+Para ejecutar el proyecto, se necesita tener Python y SQLite instalados o contar con una herramienta compatible para visualizar la base de datos.
+
+Abrir el programa SQLite o una herramienta como DB Browser for SQLite.
+
+Abrir el archivo inventario.db para visualizar las tablas y los datos almacenados.
+
+Abrir el proyecto en el entorno de desarrollo y ejecutar el archivo main.py.
+
+Utilizar el menú del sistema para registrar, consultar y actualizar la información del inventario.
+
+Los archivos .py y .db deben estar ubicados en la carpeta del proyecto para facilitar su funcionamiento.
+
+Nota: SQLite no necesita estar abierto para que el programa funcione. Se puede abrir la base de datos para consultar la información almacenada, mientras que Python se encarga de acceder a ella durante la ejecución del sistema.
+
 
 
 ## Diagramas de UML:
